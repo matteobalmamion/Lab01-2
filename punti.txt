@@ -1,4 +1,6 @@
 Paolo 4
+Giovanni 3
+Marco 1
 Lucia 1
 Mario 1
 Giuseppe 0
